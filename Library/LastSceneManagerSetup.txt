@@ -1,0 +1,8 @@
+sceneSetups:
+<<<<<<< HEAD
+- path: Assets/MenuPrincipalScenes/menuPrincipal_cena0.unity
+=======
+- path: Assets/Scenes/MapaPrincipal2.unity
+>>>>>>> Playtest2
+  isLoaded: 1
+  isActive: 1

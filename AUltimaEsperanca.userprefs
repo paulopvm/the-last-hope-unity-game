@@ -1,0 +1,40 @@
+﻿<Properties StartupItem="Assembly-CSharp.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Unity.Instance.Unity Editor" />
+<<<<<<< HEAD
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Script\MenuPrincipalBotoes.cs">
+=======
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Script\GameMaster2.cs">
+>>>>>>> Playtest2
+    <Files>
+      <File FileName="Assets\Script\Enemy.cs" Line="1" Column="1" />
+      <File FileName="Assets\Script\Enemy2.cs" Line="1" Column="1" />
+      <File FileName="Assets\Script\Enemy3.cs" Line="1" Column="1" />
+      <File FileName="Assets\Script\Enemy4.cs" Line="1" Column="1" />
+      <File FileName="Assets\Script\Tiro.cs" Line="1" Column="1" />
+<<<<<<< HEAD
+      <File FileName="Assets\Script\TorreModelo.cs" Line="1" Column="1" />
+      <File FileName="Assets\Script\Turret.cs" Line="1" Column="1" />
+      <File FileName="Assets\Script\MenuPrincipalBotoes.cs" Line="48" Column="3" />
+      <File FileName="Assets\Script\GameMaster2.cs" Line="1" Column="1" />
+=======
+      <File FileName="Assets\Script\Turret.cs" Line="1" Column="1" />
+      <File FileName="Assets\Script\WaveSpawner.cs" Line="1" Column="1" />
+      <File FileName="Assets\Script\WaveSpawner2.cs" Line="1" Column="1" />
+      <File FileName="Assets\Script\WaveSpawner3.cs" Line="1" Column="1" />
+      <File FileName="Assets\Script\WaveSpawner4.cs" Line="1" Column="1" />
+      <File FileName="Assets\Script\GameMaster.cs" Line="1" Column="1" />
+      <File FileName="Assets\Script\GameOver.cs" Line="1" Column="1" />
+      <File FileName="Assets\Script\Tempo.cs" Line="1" Column="1" />
+      <File FileName="Assets\Script\Base.cs" Line="1" Column="1" />
+      <File FileName="Assets\Script\ColocaTorre.cs" Line="1" Column="1" />
+      <File FileName="Assets\Script\Loja.cs" Line="1" Column="1" />
+      <File FileName="Assets\Script\TorreModelo.cs" Line="1" Column="1" />
+      <File FileName="Assets\Script\GameMaster2.cs" Line="49" Column="3" />
+>>>>>>> Playtest2
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
